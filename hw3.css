@@ -1,0 +1,40 @@
+ul{
+        list-style-type: square;
+    background-color: #cecdcd;
+        }
+ol{
+    margin: 0px 90% 0px 20px;
+    padding-top: 0px;
+padding-bottom: 0px;
+padding-left: 1%;
+padding-right: 14pt;
+    list-style-type: ">";
+    background-color: #cecdcd;
+    font-size: 25px;
+}
+h1{
+    background-color: #cecdcd;
+    margin: 0px 90% 0px 20px;
+}
+.lis1{
+    list-style-image: url(https://www.cooperandhunter.ru/wp-content/uploads/2016/03/Intelligent-defrost-function.png);
+    font-size: 18px;
+    padding-top: 0px;
+    padding-right: 0px;
+}
+.lis2{
+list-style-image: url(https://binette-et-cornichon.com/bundles/chouchieplant/icons/moonCalendar/flower.png);
+    font-size: 18px;
+}
+.lis3{
+list-style-image: url(https://www.rengasporssi.fi/s01/images/sun35nb.png);
+    font-size: 18px;
+}
+.lis4{
+    list-style-image: url(https://epic.cl/epicprod/wp-content/uploads/2019/07/ic-hline-2.png);
+    font-size: 18px;
+}
+/*#sil1{*/
+/*     list-style-image: url(https://1.bp.blogspot.com/-HzI83USCl60/XxsgLqu1nfI/AAAAAAAATz4/6ynkQV1AoeIJcy714gzJZPpmY4W9XILQgCK4BGAYYCw/s35/dd58562852a713891836b6291ea6c4ad.jpg);*/
+/*    font-size: 18px;*/
+/*}*/
